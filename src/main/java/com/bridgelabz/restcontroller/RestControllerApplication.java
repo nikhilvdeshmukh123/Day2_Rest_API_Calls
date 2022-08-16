@@ -11,5 +11,4 @@ public class RestControllerApplication {
         SpringApplication.run(RestControllerApplication.class, args);
         System.out.println("Welcome To Bridgelabz");
     }
-
 }
